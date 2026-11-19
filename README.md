@@ -85,6 +85,16 @@ Projeto demonstrativo desenvolvido com dados fictícios, com finalidade educacio
 
 Os indicadores e visualizações apresentados representam um cenário simulado de acompanhamento de campanhas digitais.
 
+## 🧩 9. Competências demonstradas
+
+O desenvolvimento do Campaign Pulse permitiu aplicar conhecimentos de Business Intelligence em diferentes etapas do processo analítico:
+
+- **Business Intelligence:** organização de informações para acompanhamento gerencial.
+- **Análise de Dados:** interpretação e comparação de indicadores de desempenho.
+- **Google Sheets:** estruturação da base de dados, aplicação de fórmulas e regras de negócio.
+- **Google Looker Studio:** integração direta com a fonte de dados, construção de dashboards e filtros interativos.
+- **Indicadores de Desempenho (KPIs):** cálculo e acompanhamento de CTR, CPC, CPA e Pacing.
+- **Análise Gerencial:** identificação de desvios, avaliação de resultados e elaboração de recomendações.
 ---
 ## 📚 Documentação do Projeto
 

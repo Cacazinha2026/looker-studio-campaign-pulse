@@ -104,6 +104,47 @@ Além da apresentação dos resultados, a análise comparativa permite identific
 O trabalho reforça a importância do Business Intelligence como apoio à interpretação de dados e à tomada de decisão.
 
 ---
+## 8. Diagnóstico Gerencial e Recomendações
+
+### Principais observações
+
+**Campanha Beta — Eficiência de conversão**
+
+Apresentou CPA de R$ 10,64 no último registro analisado, sendo o menor custo por conversão entre as campanhas com conversões registradas.
+
+Recomendação: avaliar oportunidades de expansão gradual do investimento, acompanhando a eficiência e a qualidade das conversões.
+
+**Campanha Alfa — Desvio de investimento**
+
+Apresentou pacing real de 191,11%, indicando investimento acumulado significativamente superior ao orçamento previsto acumulado.
+
+Recomendação: revisar o ritmo de investimento e avaliar a necessidade de redistribuição orçamentária.
+
+**Campanha Delta — Monitoramento de desempenho**
+
+Apresentou pacing de 200% e CPA de R$ 125,00. Como seu objetivo é reconhecimento, a avaliação deve considerar indicadores adequados à exposição da campanha, além das conversões.
+
+Recomendação: investigar a eficiência do investimento em relação ao objetivo de reconhecimento.
+
+**Campanha Epsilon — Ausência de conversões**
+
+Não apresentou conversões nos registros analisados, impossibilitando o cálculo do CPA.
+
+Recomendação: verificar o rastreamento de conversões, a configuração da campanha e possíveis problemas no processo de conversão.
+
+**Campanha Gama — Acompanhamento orçamentário**
+
+Apresentou pacing de 116,67%, ultrapassando o limite de 110% definido para acompanhamento operacional.
+
+Recomendação: monitorar a evolução dos gastos e avaliar a eficiência das conversões.
+
+### Considerações gerenciais
+
+A análise demonstra como a combinação de indicadores financeiros, operacionais e de desempenho pode apoiar a identificação de desvios e oportunidades de melhoria.
+
+As recomendações representam hipóteses de investigação e ações gerenciais sugeridas com base nos dados disponíveis.
+
+**Nota:** análise demonstrativa realizada com dados fictícios referentes ao período de 01/10/2026 a 03/10/2026. Os resultados não representam desempenho real de campanhas.
 
 **Campaign Pulse | Digital Media Intelligence**
 

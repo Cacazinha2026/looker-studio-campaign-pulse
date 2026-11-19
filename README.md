@@ -86,5 +86,12 @@ Projeto demonstrativo desenvolvido com dados fictícios, com finalidade educacio
 Os indicadores e visualizações apresentados representam um cenário simulado de acompanhamento de campanhas digitais.
 
 ---
+## 📚 Documentação do Projeto
 
+Explore os detalhes técnicos e gerenciais do Campaign Pulse:
+
+- 📊 [Análise de Negócio](ANALISE_DE_NEGOCIO.md) — interpretação dos resultados, identificação de oportunidades e recomendações gerenciais.
+- 📘 [Dicionário de KPIs](DICIONARIO_DE_KPIS.md) — definições, fórmulas e regras de negócio dos indicadores.
+- 🔄 [Fluxo de Dados](FLUXO_DE_DADOS.md) — arquitetura e integração entre Google Sheets e Google Looker Studio.
+  
 **Projeto de portfólio | Business Intelligence | 2026**

@@ -1,51 +1,90 @@
-
 # 📊 Campaign Pulse | Digital Media Intelligence
 
-Dashboard de Business Intelligence desenvolvido no Google Looker Studio para análise de desempenho, investimento e eficiência de campanhas de mídia digital.
+**Business Intelligence • Performance Analysis • Digital Marketing**
 
-## 🎯 Objetivo do projeto
+Dashboard gerencial desenvolvido no Google Looker Studio para acompanhamento e análise de desempenho de campanhas de mídia digital.
 
-Transformar dados de campanhas digitais em informações estratégicas e gerenciais, permitindo acompanhar resultados, comparar campanhas e identificar desvios de desempenho.
+O projeto demonstra a aplicação de conceitos de Business Intelligence na organização, visualização e interpretação de indicadores, proporcionando uma visão consolidada dos resultados das campanhas.
 
-## 📈 Indicadores (KPIs)
+---
 
-- Investimento total
-- Impressões
-- Cliques
-- Conversões
-- Taxa de Cliques (CTR)
-- Custo por Aquisição (CPA)
+## 🎯 1. Contexto e objetivo do negócio
 
-## 📊 Análises desenvolvidas
+Em operações de marketing digital, acompanhar diferentes campanhas, canais e indicadores é fundamental para compreender o desempenho dos investimentos.
 
-- Desempenho individual das campanhas.
-- Comparação de investimentos por campanha.
-- Análise por canal: Search, Display e Social.
-- Distribuição de alertas operacionais.
-- Identificação de campanhas acima, dentro ou abaixo do ritmo esperado.
+A proposta deste projeto é centralizar informações relevantes em um dashboard interativo, facilitando a análise comparativa das campanhas e a identificação de situações que merecem atenção.
 
-## ⚙️ Funcionalidades
+**Objetivo:** disponibilizar uma visão gerencial e operacional que facilite o acompanhamento de resultados e apoie a análise de desempenho das campanhas.
 
-- Filtro interativo por período.
+## 📈 2. Indicadores de desempenho (KPIs)
+
+O dashboard apresenta os seguintes indicadores:
+
+| Indicador | Significado gerencial |
+|---|---|
+| Investimento | Volume financeiro aplicado nas campanhas |
+| Impressões | Quantidade de exibições dos anúncios |
+| Cliques | Interações realizadas com os anúncios |
+| Conversões | Resultados de conversão registrados |
+| CTR | Indicador de taxa de cliques |
+| CPA | Indicador de custo por aquisição |
+
+## 🔎 3. Análises disponíveis
+
+O dashboard permite explorar diferentes perspectivas do desempenho das campanhas:
+
+- **Visão consolidada:** acompanhamento dos principais indicadores.
+- **Análise por campanha:** comparação de resultados e investimentos.
+- **Análise por canal:** visualização de desempenho em Search, Display e Social.
+- **Acompanhamento operacional:** distribuição de campanhas conforme classificação de ritmo.
+- **Análise comparativa:** identificação de diferenças entre campanhas.
+
+## ⚙️ 4. Recursos do dashboard
+
+- Filtro por período.
 - Filtro por campanha.
-- Tabela comparativa de resultados.
 - Indicadores consolidados.
-- Gráficos para análise de desempenho.
+- Gráficos comparativos.
+- Tabela de desempenho das campanhas.
+- Visualização de alertas operacionais.
 
-## 🖥️ Dashboard
+## 💡 5. Aplicação no negócio
 
-![Campaign Pulse Dashboard](campaign-pulse-dashboard.png)
+As informações apresentadas podem apoiar gestores na investigação de questões como:
 
-🔗 [Acessar dashboard interativo no Looker Studio](https://datastudio.google.com/u/0/reporting/dc0094f6-be6b-44f3-80eb-96d0b377dd37/page/DOeBG)
+- Quais campanhas concentram maior volume de investimento?
+- Como está distribuído o desempenho entre os canais?
+- Quais campanhas merecem maior atenção operacional?
+- Como os investimentos estão relacionados aos resultados registrados?
+- Onde existem oportunidades para aprofundar a análise de desempenho?
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ 6. Tecnologias e conhecimentos aplicados
 
+**Ferramenta**
 - Google Looker Studio
+
+**Conhecimentos**
 - Business Intelligence
 - Análise de Dados
 - Visualização de Dados
-- Indicadores e KPIs
+- Indicadores de Desempenho (KPIs)
+- Análise de Performance
+- Monitoramento Operacional
 
-## 📌 Observação
+## 🖥️ 7. Demonstração do projeto
 
-Projeto demonstrativo desenvolvido com dados fictícios, para fins de estudo, demonstração técnica e composição de portfólio profissional.
+### Dashboard – Campaign Pulse
+
+![Campaign Pulse Dashboard](campaign-pulse-dashboard.png)
+
+🔗 **[Acessar dashboard interativo no Google Looker Studio](https://datastudio.google.com/u/0/reporting/dc0094f6-be6b-44f3-80eb-96d0b377dd37/page/DOeBG)**
+
+## 📌 8. Sobre os dados
+
+Projeto demonstrativo desenvolvido com dados fictícios, com finalidade educacional e de composição de portfólio profissional.
+
+Os indicadores e visualizações apresentados representam um cenário simulado de acompanhamento de campanhas digitais.
+
+---
+
+**Projeto de portfólio | Business Intelligence | 2026**

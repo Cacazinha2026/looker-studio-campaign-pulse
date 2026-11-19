@@ -96,7 +96,7 @@ O desenvolvimento do Campaign Pulse permitiu aplicar conhecimentos de Business I
 - **Indicadores de Desempenho (KPIs):** cálculo e acompanhamento de CTR, CPC, CPA e Pacing.
 - **Análise Gerencial:** identificação de desvios, avaliação de resultados e elaboração de recomendações.
 ---
-## 📚 Documentação do Projeto
+## 📚 10. Documentação do Projeto
 
 Explore os detalhes técnicos e gerenciais do Campaign Pulse:
 

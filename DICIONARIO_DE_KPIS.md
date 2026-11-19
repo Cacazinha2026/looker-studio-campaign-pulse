@@ -138,6 +138,41 @@ A estrutura de indicadores permite:
 - O documento descreve os cálculos efetivamente desenvolvidos no projeto.
 
 ---
+## 8. Validação e Qualidade dos Indicadores
+
+### Tratamento de cálculos
+
+Foram aplicados controles nas fórmulas para reduzir inconsistências nos indicadores:
+
+- **CTR e CPC:** utilização de SEERRO para evitar erros em operações com denominador igual a zero.
+- **CPA:** retorno de valor vazio quando não existem conversões registradas.
+- **Pacing Real:** tratamento de erros no cálculo da relação entre investimento acumulado e orçamento previsto acumulado.
+
+### Regras de negócio
+
+O acompanhamento operacional utiliza três faixas de classificação:
+
+| Condição | Classificação |
+|---|---|
+| Pacing inferior a 90% | Abaixo do ritmo |
+| Pacing entre 90% e 110% | Dentro do ritmo |
+| Pacing superior a 110% | Acima do ritmo |
+
+Campanhas com status diferente de "Ativa" recebem a classificação "Verificar status".
+
+### Acumulação financeira
+
+O investimento acumulado é calculado por campanha, considerando os registros até a data analisada.
+
+Essa abordagem permite acompanhar a evolução dos gastos e comparar o investimento realizado com o orçamento previsto acumulado.
+
+### Limitações do cenário demonstrativo
+
+- Base de dados fictícia, utilizada para demonstração técnica.
+- Indicadores calculados a partir dos registros disponíveis na planilha.
+- Os resultados não representam dados reais de plataformas de mídia.
+- A fórmula de investimento acumulado utiliza intervalos fixos até a linha 16, sendo necessário ampliar os intervalos caso novos registros sejam adicionados.
+
 
 **Campaign Pulse | Digital Media Intelligence**
 

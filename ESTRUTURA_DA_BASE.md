@@ -47,6 +47,33 @@ Essa organização permite acompanhar a evolução dos indicadores ao longo do p
 | Desvio_Pacing | Diferença entre o pacing real e o valor de referência |
 | Alerta_Operacional | Classificação do ritmo de investimento |
 
+### 3.4 Classificação técnica dos campos
+
+Os campos foram organizados considerando seus tipos de dados e sua origem na estrutura da base.
+
+| Campo | Tipo de dado | Origem |
+|---|---|---|
+| Data | Data | Base de dados |
+| Campanha | Texto | Base de dados |
+| Canal | Texto | Base de dados |
+| Objetivo | Texto | Base de dados |
+| Orcamento_Total | Moeda | Base de dados |
+| Orcamento_Previsto_Acumulado | Moeda | Base de dados |
+| Investimento_Real | Moeda | Base de dados |
+| Impressoes | Número inteiro | Base de dados |
+| Cliques | Número inteiro | Base de dados |
+| Conversoes | Número inteiro | Base de dados |
+| Status_Operacional | Texto | Base de dados |
+| CTR | Percentual | Fórmula |
+| CPC | Moeda | Fórmula |
+| CPA | Moeda | Fórmula |
+| Investimento_Acumulado | Moeda | Fórmula |
+| Pacing_Real | Percentual | Fórmula |
+| Desvio_Pacing | Percentual | Fórmula |
+| Alerta_Operacional | Texto | Fórmula |
+
+Essa classificação facilita a identificação dos campos utilizados nas análises e contribui para a consistência dos dados na integração com o Google Looker Studio.
+
 ## 4. Organização lógica
 
 A base está organizada em três grupos de informações:

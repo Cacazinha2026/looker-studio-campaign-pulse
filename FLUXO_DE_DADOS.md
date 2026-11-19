@@ -119,4 +119,5 @@ A atualização dos dados não ocorre necessariamente em tempo real. O Looker St
 Dessa forma, a integração permite atualização automática, respeitando o intervalo de atualização configurado.
 **Campaign Pulse | Digital Media Intelligence**
 
+
 Projeto demonstrativo de Business Intelligence — 2026.

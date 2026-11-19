@@ -94,7 +94,29 @@ O projeto integra preparação de dados, cálculos de indicadores, acompanhament
 - O dashboard apresenta os indicadores e visualizações desenvolvidos para o projeto.
 
 ---
+## 7. Atualização e manutenção dos dados
 
+### Atualização automática
+
+A integração direta entre Google Sheets e Google Looker Studio permite que as alterações realizadas na planilha sejam disponibilizadas no dashboard automaticamente, respeitando o intervalo de atualização dos dados configurado na fonte.
+
+O mecanismo de atualização permite reduzir a necessidade de importações manuais e manter os indicadores alinhados às informações disponíveis na planilha.
+
+### Cuidados com a atualização
+
+Para preservar a consistência da integração, alguns cuidados são importantes:
+
+- Manter a estrutura das colunas da planilha.
+- Preservar os nomes e tipos dos campos utilizados no dashboard.
+- Verificar a consistência dos dados inseridos.
+- Evitar alterações na estrutura da fonte sem revisar os campos utilizados nas visualizações.
+- Acompanhar a atualização dos dados após alterações na planilha.
+
+### Consideração técnica
+
+A atualização dos dados não ocorre necessariamente em tempo real. O Looker Studio utiliza configurações de atualização da fonte de dados, que determinam quando novas consultas são realizadas à planilha.
+
+Dessa forma, a integração permite atualização automática, respeitando o intervalo de atualização configurado.
 **Campaign Pulse | Digital Media Intelligence**
 
 Projeto demonstrativo de Business Intelligence — 2026.
